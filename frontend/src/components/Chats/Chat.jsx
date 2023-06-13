@@ -49,7 +49,7 @@ const App = () => {
               className="bg-blue-600 text-white font-bold py-2 px-4 rounded-r"
               onClick={createChat}
             >
-              Next
+              Create
             </button>
           </div>
         </div>
