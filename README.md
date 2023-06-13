@@ -1,6 +1,6 @@
 # Group Chat web app
 
-This is an ecommerce website where people can add products, delete products.
+An group chat application where user can talk about the favourite things.
 
 ## Live Preview
 
